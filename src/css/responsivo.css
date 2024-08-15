@@ -1,4 +1,4 @@
-@media (max-width: 375px){
+@media (max-width: 426px){
     header .logo{
         max-width: 35%;
         margin: 30px 45px;
@@ -36,9 +36,11 @@
 
     footer .redes {
         margin-top: 60px;
+        margin-right: 0;
     }
     
     footer .redes .icone-rede {
+    align-items: center;
     border: 1px solid #ffffff;
     padding: 6px 10px;
     font-size: 12px;
